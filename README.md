@@ -21,4 +21,4 @@
 **Part 3: Hip Flexion Moment vs. % Gait Cycle Plots**
 1. Plot the results against the % gait cycle using matplotlib
 
-The Models and Plots from are Presentation are shown in the OurResults Folder
+**The Models and Plots from are Presentation are shown in the OurResults Folder**
