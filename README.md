@@ -16,7 +16,9 @@
 4. Convert CSV back to motion file
    
 **Part 2: Hip Flexion Moment Calculation**
-1. Use the motion file, the ground reaction force file, and the scaled OpenSim file to calculate the hip flexion moment (all files are within the Sensitivity Analysis Of Hip Flexion folder)
+1. Use the motion file, the ground reaction force file, and the scaled OpenSim file to calculate the hip flexion moment (all files are within the Sensitivity Analysis Of Hip Flexion Folder)
    
 **Part 3: Hip Flexion Moment vs. % Gait Cycle Plots**
 1. Plot the results against the % gait cycle using matplotlib
+
+The Models and Plots from are Presentation are shown in the OurResults Folder
