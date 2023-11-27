@@ -6,7 +6,7 @@
 **To Create the Musculoskeletal Model:**
 Download OpenSim: https://simtk.org/frs/?group_id=91
 
-**In Order to Run Our Code and Get the Output: Hip Flexion Moment vs. % Gait Cycle Plots**
+**In Order to Run Our Code and Get the Output: Hip Flexion Moment vs. % Gait Cycle Plots:**
 Download the OpenSim Package. Look for instructions under "Setting up your Python scripting environment" at https://simtk-confluence.stanford.edu:8443/display/OpenSim/Scripting+in+Python#ScriptinginPython-AccessingelementsofVecXandVectorusingbrackets
 
 **Breakdown of our code (SensitivityAnalysisOfHipFlexion.py):**
