@@ -10,6 +10,7 @@ Download OpenSim: https://simtk.org/frs/?group_id=91
 Download the OpenSim Package. Look for instructions under "Setting up your Python scripting environment" at https://simtk-confluence.stanford.edu:8443/display/OpenSim/Scripting+in+Python#ScriptinginPython-AccessingelementsofVecXandVectorusingbrackets
 
 **Breakdown of our code (SensitivityAnalysisOfHipFlexion.py):**
+
 **Part 1: Retrieve Data & Add Noise**
 1. Import motion data & convert to CSV file using pandas and numpy
 2. Add normal Gaussian noise to the inverse kinematics results at different standard deviations & convert back to motion file
