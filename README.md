@@ -28,5 +28,6 @@ Once the motion file is loaded, press play on the top of the screen.
 1. Plot the results against the % gait cycle using matplotlib
 
 **The Models and Plots from are Presentation are shown in the 'OurResults' Folder**
+
 Note: the hip flexion moment values on the y-axis of the plots do not match measured hip flexion moments found in research. 
 
